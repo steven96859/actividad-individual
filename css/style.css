@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+.imagenes img {
+    width: 10%;
+}
+.imagenes {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.texto {
+    background-color: aqua;
+    padding: bottom 25%;;
+    text-align: center;
+}
+footer {
+    background-color: aqua;
+}
