@@ -1,5 +1,6 @@
 body {
     background-color: aquamarine;
+    margin-bottom: 50px;
 }
 .imagenes img {
     width: 10%;
@@ -11,9 +12,24 @@ body {
 }
 .texto {
     background-color: aqua;
-    padding: bottom 25%;;
+    padding: bottom 25%;
     text-align: center;
 }
+.boton {
+    color: aquamarine;
+    border-radius: 15%;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
 footer {
+    display: flex;
+    justify-content: center;
+    align-items:center;
     background-color: aqua;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
 }
